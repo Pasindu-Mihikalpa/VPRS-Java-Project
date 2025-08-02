@@ -1,2 +1,2 @@
-# VPRS-Java-Project
-The Vehicle Parking Reservation System (VPRS) enables users to book parking slots in real-time, process secure payments, and manage overstaying penalties. Admins can monitor availability, configure pricing, and generate reports. The system supports web/mobile access with notifications for a seamless parking experience.
+# Chalitha-Aluwihare-university-parking-system
+A JavaFX-based desktop application for managing university parking. Users can view available slots, book parking, and set time durations. Built with IntelliJ IDEA, Scene Builder, and MongoDB for real-time data storage and a smooth, user-friendly parking experience.
